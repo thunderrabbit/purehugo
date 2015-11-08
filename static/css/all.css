@@ -1,7 +1,7 @@
 #layout,.nav-list {
     padding: 0;
 }
-.brand-title,.content-subhead {
+.content-subhead {
     text-transform: uppercase;
 }
 .footer,.header,.post-share-links {
