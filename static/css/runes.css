@@ -2,6 +2,12 @@
 .rune {
     background: url("https://b.robnugen.com/journal/runes/runes_from_the_book_of_runes_by_ralph_h_blum.jpg") no-repeat;
 }
+.reversed {
+    -moz-transform:rotate(180deg);
+    -webkit-transform:rotate(180deg);
+    -o-transform:rotate(180deg);
+    -ms-transform:rotate(180deg);
+}
 .uruz {
     width: 100px; /* Icon width */
     height: 135px; /* Icon height */
